@@ -58,3 +58,17 @@ nav button:hover {
   background: #e0b866;
   color: #2a0a12;
 }
+h1, h2, h3 {
+  font-family: "Playfair Display", Georgia, serif;
+  letter-spacing: 0.5px;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-bottom: 8px;
+}
+
+h2 {
+  border-bottom: 1px solid #7a2a3a;
+  padding-bottom: 8px;
+}
