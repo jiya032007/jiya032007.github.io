@@ -2,14 +2,9 @@ export default function Skills() {
   return (
     <section>
       <h2>Skills</h2>
-      <ul>
-        <li>React</li>
-        <li>Java</li>
-        <li>C++</li>
-        <li>Python</li>
-        <li>Git</li>
-        <li>LoRA (fine-tuning AI models)</li>
-      </ul>
+      <p>Languages: C++, Java, Python, x86 Assembly (MASM)</p>
+      <p>Libraries: Pandas, NumPy, Matplotlib, PyTorch</p>
+      <p>Tools: Streamlit, MongoDB, Supabase, Git/GitHub, Figma, REST APIs, Firebase, DynamoDB, D3.js</p>
     </section>
   );
 }
