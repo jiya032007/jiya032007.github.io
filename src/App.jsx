@@ -1,14 +1,13 @@
 import About from "./About";
-import Contact from "./Contact";    
-import Projects from "./Projects";
-
+import Skills from "./Skills";
+import Contact from "./Contact";
 
 export default function App() {
   return (
     <div>
       <About />
-      <Contact />
       <Skills />
+      <Contact />
     </div>
   );
 }
