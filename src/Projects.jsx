@@ -20,6 +20,7 @@ export default function Projects() {
           weather data. I designed the DynamoDB schemas for a team of 7.
         </p>
         <p>Tech: React Native, AWS Lambda, DynamoDB, ResNet50</p>
+        <a href="https://github.com/AI-Mentorship/ClosetSensei" target="_blank" rel="noopener noreferrer">GitHub</a>
       </div>
 
       <div>
@@ -29,6 +30,7 @@ export default function Projects() {
           and a watchlist.
         </p>
         <p>Tech: Python, Pandas, NumPy, Streamlit, OMDb API</p>
+        <a href="https://github.com/jiya032007/GDSC_ML3_Movie-Recommendation-System" target="_blank" rel="noopener noreferrer">GitHub</a>
       </div>
 
       <div>
@@ -38,6 +40,7 @@ export default function Projects() {
           (silhouette score 0.58).
         </p>
         <p>Tech: Python, scikit-learn, PCA, Matplotlib</p>
+        <a href="https://github.com/jiya032007/customer-behavior-analyzer-Jiya" target="_blank" rel="noopener noreferrer">GitHub</a>
       </div>
 
       <div>
@@ -47,6 +50,7 @@ export default function Projects() {
           portfolio hedging recommendations.
         </p>
         <p>Tech: Python, Gemini API</p>
+        <a href="https://github.com/jiya032007/Finhack-Climate-Risk-Evaluator" target="_blank" rel="noopener noreferrer">GitHub</a>
       </div>
     </section>
   );
