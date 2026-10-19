@@ -72,3 +72,20 @@ h2 {
   border-bottom: 1px solid #7a2a3a;
   padding-bottom: 8px;
 }
+body {
+  max-width: 1000px;
+}
+
+.book-wrap {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.page {
+  background: #33101a;
+  border: 1px solid #7a2a3a;
+  padding: 24px;
+  box-sizing: border-box;
+  overflow-y: auto;
+}
